@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e43cabdfff4cbb05fdfaba19c79c770258a8f5fe1833ed04339821b32e18220b"
+            "sha256": "3b6d3c3bfaa3cec394e16276a2357d511eb933513061019ece90770ab1f307c4"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -9,9 +9,9 @@
             "os_name": "posix",
             "platform_machine": "x86_64",
             "platform_python_implementation": "CPython",
-            "platform_release": "16.7.0",
+            "platform_release": "16.3.0",
             "platform_system": "Darwin",
-            "platform_version": "Darwin Kernel Version 16.7.0: Thu Jun 15 17:36:27 PDT 2017; root:xnu-3789.70.16~2/RELEASE_X86_64",
+            "platform_version": "Darwin Kernel Version 16.3.0: Thu Nov 17 20:23:58 PST 2016; root:xnu-3789.31.2~1/RELEASE_X86_64",
             "python_full_version": "3.6.2",
             "python_version": "3.6",
             "sys_platform": "darwin"
@@ -49,6 +49,12 @@
             ],
             "version": "==3.0.4"
         },
+        "html2text": {
+            "hashes": [
+                "sha256:02ab8df206e90a395b7e188e26eb1906680439ce4a636a00217851cef58c1fad"
+            ],
+            "version": "==2017.10.4"
+        },
         "idna": {
             "hashes": [
                 "sha256:8c7309c718f94b3a625cb648ace320157ad16ff131ae0af362c9f21b80ef6ec4",
@@ -62,6 +68,12 @@
                 "sha256:9c443e7324ba5b85070c4a818ade28bfabedf16ea10206da1132edaa6dda237e"
             ],
             "version": "==2.18.4"
+        },
+        "tomd": {
+            "hashes": [
+                "sha256:23f21ae853157be49d163159bc7c6bc007dd5e87b69769ec5ba3e17f5de7a6d4"
+            ],
+            "version": "==0.1.3"
         },
         "urllib3": {
             "hashes": [
